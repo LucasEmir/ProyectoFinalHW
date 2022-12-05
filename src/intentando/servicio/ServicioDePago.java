@@ -1,8 +1,9 @@
   
-package test_pago;
+package intentando.servicio;
 
 import java.util.Scanner;
 import metodoPago.MetodoDePago1;
+import intentando.entidades.Viaje;
 
 public class ServicioDePago extends MetodoDePago1{
     public static void main(String[] args) {
@@ -12,7 +13,7 @@ public class ServicioDePago extends MetodoDePago1{
         Scanner sc = new Scanner(System.in);
         
         int opcion;
-        int precio = 200;
+        int precio = Viaje.;
         
         MetodoDePago1 metodoPago = new MetodoDePago1();
         do  {System.out.println("..:Ingresar medio de pago:..");
