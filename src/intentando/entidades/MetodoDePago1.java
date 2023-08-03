@@ -1,8 +1,8 @@
  
-package metodoPago;
+package intentando.entidades;
 
 public class MetodoDePago1 {
-   
+    
     protected int precio;
     protected int opcion;
     protected double descuento;

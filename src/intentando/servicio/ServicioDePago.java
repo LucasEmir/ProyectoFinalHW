@@ -1,9 +1,14 @@
   
 package intentando.servicio;
 
+import intentando.entidades.MetodoDePago1;
 import java.util.Scanner;
+<<<<<<< Updated upstream
 import metodoPago.MetodoDePago1;
 import intentando.entidades.Viaje;
+=======
+//import metodoPago.MetodoDePago1;
+>>>>>>> Stashed changes
 
 public class ServicioDePago extends MetodoDePago1{
     public static void main(String[] args) {
